@@ -7,7 +7,7 @@ public class exercicio1lucas {
         Scanner sc = new Scanner(System.in);
 
 
-        
+        sc.close();
     }
-
+        
 }

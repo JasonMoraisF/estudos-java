@@ -20,7 +20,7 @@ public class arquivo4ficha2 {
             total = 24 - inicio + fim;
             System.out.println(total);
         }
-
+        sc.close();
     }
     
 }

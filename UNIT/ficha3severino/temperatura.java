@@ -1,5 +1,5 @@
 package UNIT.ficha3severino;
-import java.util.Scanner;
+
 
 public class temperatura {
     public static void main(String[] args) {
