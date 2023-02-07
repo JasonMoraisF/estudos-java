@@ -8,6 +8,7 @@ public class Program {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
+        
         Triangle x, y;
         x = new Triangle(); 
         y = new Triangle();
@@ -38,8 +39,8 @@ public class Program {
         }
             else{
                 System.out.println("Area Y is Bigger");
-            }
+            } 
 
-        sc.close();
+        
     }
 }
