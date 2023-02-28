@@ -19,11 +19,11 @@ public class Program {
                 if(vect[i] < 0){
                     System.out.println(vect[i]);       
                 }
-            }
-        }
+            }          // Até aqui, o programa armazena os numeros negativos.
+        } 
         else{
             System.out.println("MENOR OU IGUAL A 10 lindo: ");
             System.out.println("Rode novamente o programa que se foda");
         }
-    }
+    }    
 }
