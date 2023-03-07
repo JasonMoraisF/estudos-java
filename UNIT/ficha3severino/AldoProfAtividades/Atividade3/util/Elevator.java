@@ -31,7 +31,7 @@ public class Elevator {
         if(this.pessoasTransportadas > limite){
             status = "Bloqueado";
             sobrando = this.pessoasTransportadas - limite;
-            System.out.println(status + "Excedendo " + sobrando);
+            System.out.println(status + " Excedendo " + sobrando);
             pessoasExcedentes = sc.nextInt();
             this.pessoasTransportadas -= pessoasExcedentes;
             System.out.println(this.pessoasTransportadas);    

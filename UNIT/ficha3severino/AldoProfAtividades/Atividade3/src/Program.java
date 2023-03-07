@@ -27,7 +27,7 @@ public class Program {
         pessoas = sc.nextInt();
         elevador1.RegistrarEntrada(pessoas);
 
-        System.out.println("QUARTA PARADA "); //exceder limite
+        System.out.println("QUARTA PARADA, retirada de pessoas "); //exceder limite
         pessoas = sc.nextInt();
         elevador1.RegistrarSaida(pessoas);
         
