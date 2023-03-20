@@ -8,6 +8,7 @@ import Atividades.ficha6udemy2023.Atividade3Vetores.util.PessoaDados;
 public class Program {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+
         System.out.println("Quantas pessoas serão digitadas: ");
         int n = sc.nextInt();
         PessoaDados[] vect = new PessoaDados[n];
@@ -40,7 +41,7 @@ public class Program {
         System.out.printf("%nAltura média: %.2f%n", mediaAltura);
         
         double porcentagem = ((double) pessoasMenorDezesseis.size() / vect.length) * 100;
-        System.out.println("Pessoas com menos de 16 anos: "+ porcentagem + "%");
+        System.out.printf("Pessoas com menos de 16 anos: %.1f%n", porcentagem );
 
         for(int i = 0; i < pessoasMenorDezesseis.size(); i++){
             System.out.println(pessoasMenorDezesseis.get(i).getName());
