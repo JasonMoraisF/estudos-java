@@ -80,10 +80,17 @@ public class Program {
 			System.out.println("\n-- Código já cadastrado --\n");
 			return;
 		}	
+		System.out.println("Digite seu nome: ");
+		String nome = sc.nextLine();
+		sc.nextLine();
+
+		System.out.println("Digite seu nivel de glicose: ");
+		int glicose = sc.nextInt();
+
 
 		for (int i = 0; i < exames.length; i++) {
 			if (exames[i] == null) {
-				exames[i]= new Exame();
+				exames[i]= new Exame(codigo, nome, glicose);
 				contExame++;
 				System.out.println("\n-- Cadastro efetuado --\n");
 				return;
@@ -93,13 +100,13 @@ public class Program {
 	}
 
     public static void consultaExame() {
-		System.out.println("\n*** Consulta de Elevador ***\n");
+		System.out.println("\n*** Consulta do Exame ***\n");
 		if (contExame ==0) {
 			System.out.println("Vetor vazio");
 			return;
 		}
 		
-		System.out.printf("\nCódigo do elevador: ");
+		System.out.printf("\nCódigo do Exame: ");
 		int codigo = sc.nextInt();
 		
 		int posicaoEncontrada = pesquisaExamePorCodigo(codigo);
@@ -115,13 +122,13 @@ public class Program {
 	}
 
     public static void alteraExame() {
-		System.out.println("\n*** Alteração de Elevador ***\n");
+		System.out.println("\n*** Alteração do Exame ***\n");
 		if (contExame ==0) {
 			System.out.println("Vetor vazio");
 			return;
 		}
 
-		System.out.printf("\nCódigo do elevador: ");
+		System.out.printf("\nCódigo do exame: ");
 		int codigo = sc.nextInt();
 		
 		int posicaoEncontrada = pesquisaExamePorCodigo(codigo);
@@ -199,9 +206,7 @@ public class Program {
     
             for (int i = 0; i < exames.length; i++) {
                 if (exames[i] != null) {
-                    System.out.printf("%-6d %11s %10d %7d\n", 
-                                exames[i].getIdExame(),
-                              exames[i].obterDiagnostico());				
+                    System.out.println(exames[i].getIdExame() + " _____ " + exames[i].obterDiagnostico());				
                 }
                 else {
                     System.out.printf("%dº Elemento nulo\n", i);

@@ -5,10 +5,10 @@ public class Exame {
 	private String nomePaciente;
 	private int nivelGlicose;
 
-	public void Exame(int idExame, String nome, int nivelGlicose ) {
-		setIdExame(idExame);
-		setNomePaciente(nome);
-		setNivelGlicose(nivelGlicose);
+	public Exame(int idExame, String nome, int nivelGlicose ) {
+		this.idExame = idExame;
+		this.nomePaciente = nome;
+		this.nivelGlicose = nivelGlicose;
 	}
 
 	public String obterDiagnostico(){
