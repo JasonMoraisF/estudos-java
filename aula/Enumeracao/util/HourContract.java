@@ -8,7 +8,6 @@ public class HourContract {
     private Integer hours;
 
     public HourContract(){
-
     }
 
     public HourContract(Date date, Double valuePerHour, Integer hours) {
