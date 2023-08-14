@@ -1,4 +1,4 @@
-package aula.comparativos;
+package comparativos;
 import java.util.Scanner;
 
 public class conternaria {

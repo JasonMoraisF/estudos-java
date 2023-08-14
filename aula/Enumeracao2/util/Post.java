@@ -1,4 +1,4 @@
-package aula.Enumeracao2.util;
+package Enumeracao2.util;
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;

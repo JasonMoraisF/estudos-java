@@ -1,4 +1,4 @@
-package aula.repetição;
+package repetição;
 import java.util.Scanner;
 public class aulafor {
     public static void main(String[] args) {

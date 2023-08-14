@@ -1,4 +1,4 @@
-package aula.Funcoes;
+package Funcoes;
 
 import java.util.Scanner;
 

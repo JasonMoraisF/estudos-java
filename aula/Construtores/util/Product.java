@@ -1,4 +1,4 @@
-package aula.Construtores.util;
+package Construtores.util;
 
 public class Product {
     public String name;

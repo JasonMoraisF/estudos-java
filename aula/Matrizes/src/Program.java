@@ -1,4 +1,4 @@
-package aula.Matrizes.src;
+package Matrizes.src;
 
 import java.util.Scanner;
 

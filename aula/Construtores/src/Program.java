@@ -1,9 +1,9 @@
-package aula.Construtores.src;
+package Construtores.src;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-import aula.Construtores.util.Product;
+import Construtores.util.Product;
 
 public class Program {
     public static void main(String[] args) {

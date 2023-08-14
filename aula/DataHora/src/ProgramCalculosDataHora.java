@@ -1,4 +1,4 @@
-package aula.DataHora.src;
+package DataHora.src;
 import java.time.Duration;
 import java.time.Instant;
 import java.time.LocalDate;

@@ -1,4 +1,4 @@
-package aula.Enumeracao.util;
+package Enumeracao.util;
 
 public class Department {
     private String name;

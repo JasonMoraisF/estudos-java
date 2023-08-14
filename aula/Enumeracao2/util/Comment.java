@@ -1,4 +1,4 @@
-package aula.Enumeracao2.util;
+package Enumeracao2.util;
 
 public class Comment {
     private String text;

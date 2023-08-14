@@ -1,4 +1,4 @@
-package aula.TopicosJava;
+package TopicosJava;
 
 import java.util.Scanner;
 

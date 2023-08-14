@@ -1,10 +1,10 @@
-package aula.Enumeracao2.src;
+package Enumeracao2.src;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 
-import aula.Enumeracao2.util.Comment;
-import aula.Enumeracao2.util.Post;
+import Enumeracao2.util.Comment;
+import Enumeracao2.util.Post;
 
 public class Program {
     public static void main(String[] args) throws ParseException{

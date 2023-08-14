@@ -1,4 +1,4 @@
-package aula.Enumeracao.enums;
+package Enumeracao.enums;
 
 public enum WorkerLevel {
     JUNIOR,

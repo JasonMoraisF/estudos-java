@@ -4,10 +4,10 @@ import java.text.SimpleDateFormat;
 import java.util.Locale;
 import java.util.Scanner;
 
-import aula.Enumeracao.enums.WorkerLevel;
-import aula.Enumeracao.util.Department;
-import aula.Enumeracao.util.HourContract;
-import aula.Enumeracao.util.Worker;
+import Enumeracao.enums.WorkerLevel;
+import Enumeracao.util.Department;
+import Enumeracao.util.HourContract;
+import Enumeracao.util.Worker;
 
 public class Program {
     public static void main(String[] args) throws ParseException {

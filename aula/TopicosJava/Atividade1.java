@@ -1,5 +1,4 @@
-package aula;
-
+package TopicosJava;
 import java.util.Locale;
 public class Atividade1 {
     public static void main(String[] args) {

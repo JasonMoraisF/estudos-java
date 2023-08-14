@@ -1,4 +1,4 @@
-package aula.TopicosJava;
+package TopicosJava;
 
 public class BitABit {
     public static void main(String[] args) {

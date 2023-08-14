@@ -1,4 +1,4 @@
-package aula.Heranca.entities.util;
+package Heranca.entities.util;
 
 public final class SavingsAccount extends Account{
     private Double interestRate;

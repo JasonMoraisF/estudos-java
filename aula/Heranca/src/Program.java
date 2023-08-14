@@ -1,8 +1,8 @@
-package aula.Heranca.src;
+package Heranca.src;
 
-import aula.Heranca.entities.util.Account;
-import aula.Heranca.entities.util.BusinessAccount;
-import aula.Heranca.entities.util.SavingsAccount;
+import Heranca.entities.util.Account;
+import Heranca.entities.util.BusinessAccount;
+import Heranca.entities.util.SavingsAccount;
 
 public class Program {
     public static void main(String[] args) {

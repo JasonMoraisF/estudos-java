@@ -1,4 +1,4 @@
-package aula.StringFuncoes;
+package StringFuncoes;
 
 public class Splite {
     public static void main(String[] args) {

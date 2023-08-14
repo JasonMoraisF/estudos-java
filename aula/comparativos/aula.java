@@ -1,4 +1,4 @@
-package aula.comparativos;
+package comparativos;
 import java.util.Scanner;
 public class aula {
     public static void main(String[] args) {

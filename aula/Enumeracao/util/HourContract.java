@@ -1,4 +1,4 @@
-package aula.Enumeracao.util;
+package Enumeracao.util;
 
 import java.util.Date;
 
