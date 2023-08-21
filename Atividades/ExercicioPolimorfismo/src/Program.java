@@ -49,6 +49,13 @@ public class Program {
                     dataString = sc.next();
                     data = LocalDate.parse(dataString, fmt1);
                     produtos.add(new UsedProduct(nome, preco, data));
+                /* METODO OTIMIZADO 
+                 System.out.print("Data de fabricacao (DD/MM/YYYY): ");
+				LocalDate date = LocalDate.parse(sc.next(), DateTimeFormatter.ofPattern("dd/MM/yyyy"));
+				list.add(new UsedProduct(name, price, date));
+                 */
+
+
             }
         }
         System.out.println("PRICE TAGS: ");

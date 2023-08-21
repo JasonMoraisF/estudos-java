@@ -23,6 +23,14 @@ public class UsedProduct extends Product {
     public String priceTag(){
         return super.getName() + " (used) " + " $ " + String.format("%.2f",super.getPrice()) +  "  (Manufacture date: " + manufactureDate.format(fmt1) + ")";
      }
+     /* METODO OTIMIZADO
+      return getName() 
+				+ " (used) $ " 
+				+ String.format("%.2f", getPrice())
+				+ " (Manufacture date: "
+				+ manufactureDate.format(DateTimeFormatter.ofPattern("dd/MM/yyyy"))
+				+ ")";
+      */
     
 
 }
