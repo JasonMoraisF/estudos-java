@@ -1,0 +1,721 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "DataHora.src.Program",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "ProgramDataPraString",
+            "request": "launch",
+            "mainClass": "DataHora.src.ProgramDataPraString",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "Atividades.AtividadeEnumeracao.src.Program",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "Program(1)",
+            "request": "launch",
+            "mainClass": "Atividades.AtividadeLista.src.Program",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "Program(2)",
+            "request": "launch",
+            "mainClass": "Atividades.ExercicioMatrizes.src.Program",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "exercicio1lucas",
+            "request": "launch",
+            "mainClass": "Atividades.ficha1lucas.exercicio1lucas",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "exercicio2lucas",
+            "request": "launch",
+            "mainClass": "Atividades.ficha1lucas.exercicio2lucas",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "exercicio1ficha1",
+            "request": "launch",
+            "mainClass": "Atividades.ficha1udemy.exercicio1ficha1",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "exercicio2ficha1",
+            "request": "launch",
+            "mainClass": "Atividades.ficha1udemy.exercicio2ficha1",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "exercicio3ficha1",
+            "request": "launch",
+            "mainClass": "Atividades.ficha1udemy.exercicio3ficha1",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "exercicio4ficha1",
+            "request": "launch",
+            "mainClass": "Atividades.ficha1udemy.exercicio4ficha1",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "exercicio5ficha1",
+            "request": "launch",
+            "mainClass": "Atividades.ficha1udemy.exercicio5ficha1",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "exercicio6ficha1",
+            "request": "launch",
+            "mainClass": "Atividades.ficha1udemy.exercicio6ficha1",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "arquivo4ficha2",
+            "request": "launch",
+            "mainClass": "Atividades.ficha2udemy.arquivo4ficha2",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "arquivo7ficha2",
+            "request": "launch",
+            "mainClass": "Atividades.ficha2udemy.arquivo7ficha2",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "arquivo8ficha2",
+            "request": "launch",
+            "mainClass": "Atividades.ficha2udemy.arquivo8ficha2",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "exercicio1ficha2",
+            "request": "launch",
+            "mainClass": "Atividades.ficha2udemy.exercicio1ficha2",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "exercicio2ficha2",
+            "request": "launch",
+            "mainClass": "Atividades.ficha2udemy.exercicio2ficha2",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "exercicio3ficha2",
+            "request": "launch",
+            "mainClass": "Atividades.ficha2udemy.exercicio3ficha2",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "exercicio5ficha2",
+            "request": "launch",
+            "mainClass": "Atividades.ficha2udemy.exercicio5ficha2",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "exercicio6ficha2",
+            "request": "launch",
+            "mainClass": "Atividades.ficha2udemy.exercicio6ficha2",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "exercicio1ficha3",
+            "request": "launch",
+            "mainClass": "Atividades.ficha3udemy.exercicio1ficha3",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "exercicio2ficha3",
+            "request": "launch",
+            "mainClass": "Atividades.ficha3udemy.exercicio2ficha3",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "exercicio3ficha3",
+            "request": "launch",
+            "mainClass": "Atividades.ficha3udemy.exercicio3ficha3",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "atividade1ficha4",
+            "request": "launch",
+            "mainClass": "Atividades.ficha4udemy.atividade1ficha4",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "atividade2ficha4",
+            "request": "launch",
+            "mainClass": "Atividades.ficha4udemy.atividade2ficha4",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "atividade3ficha4",
+            "request": "launch",
+            "mainClass": "Atividades.ficha4udemy.atividade3ficha4",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "atividade4ficha4",
+            "request": "launch",
+            "mainClass": "Atividades.ficha4udemy.atividade4ficha4",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "atividade5ficha4",
+            "request": "launch",
+            "mainClass": "Atividades.ficha4udemy.atividade5ficha4",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "atividade6ficha4",
+            "request": "launch",
+            "mainClass": "Atividades.ficha4udemy.atividade6ficha4",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "atividade7ficha4",
+            "request": "launch",
+            "mainClass": "Atividades.ficha4udemy.atividade7ficha4",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "Program(3)",
+            "request": "launch",
+            "mainClass": "Atividades.ficha5udemy2023.atividade1ficha5.Program",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "Program(4)",
+            "request": "launch",
+            "mainClass": "Atividades.ficha5udemy2023.atividadeEncapsulamento.src.Program",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "ProgramEmployee",
+            "request": "launch",
+            "mainClass": "Atividades.ficha5udemy2023.exercicio2ficha5.ProgramEmployee",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "ProgramMedia",
+            "request": "launch",
+            "mainClass": "Atividades.ficha5udemy2023.exercicio3ficha5.ProgramMedia",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "Program(5)",
+            "request": "launch",
+            "mainClass": "Atividades.ficha5udemy2023.exercicio4metodosficha5.src.Program",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "Program(6)",
+            "request": "launch",
+            "mainClass": "Atividades.ficha6udemy2023.Atividade10Vetores.src.Program",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "Program(7)",
+            "request": "launch",
+            "mainClass": "Atividades.ficha6udemy2023.Atividade11Vetores.src.Program",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "Pessoa",
+            "request": "launch",
+            "mainClass": "Atividades.ficha6udemy2023.Atividade11Vetores.util.Pessoa",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "Program(8)",
+            "request": "launch",
+            "mainClass": "Atividades.ficha6udemy2023.Atividade1Vetores.src.Program",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "Program(9)",
+            "request": "launch",
+            "mainClass": "Atividades.ficha6udemy2023.Atividade2Vetores.src.Program",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "Program(10)",
+            "request": "launch",
+            "mainClass": "Atividades.ficha6udemy2023.Atividade3Vetores.src.Program",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "Program(11)",
+            "request": "launch",
+            "mainClass": "Atividades.ficha6udemy2023.Atividade4Vetores.src.Program",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "ProgramMaiorPosicao",
+            "request": "launch",
+            "mainClass": "Atividades.ficha6udemy2023.Atividade5Vetores.src.ProgramMaiorPosicao",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "Program(12)",
+            "request": "launch",
+            "mainClass": "Atividades.ficha6udemy2023.Atividade6Vetores.src.Program",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "Program(13)",
+            "request": "launch",
+            "mainClass": "Atividades.ficha6udemy2023.Atividade7Vetores.src.Program",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "Program(14)",
+            "request": "launch",
+            "mainClass": "Atividades.ficha6udemy2023.Atividade8Vetores.src.Program",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "Program(15)",
+            "request": "launch",
+            "mainClass": "Atividades.ficha6udemy2023.Atividade9Vetores.src.Program",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "ProgramaQuartos",
+            "request": "launch",
+            "mainClass": "Atividades.ficha6udemy2023.DesafioVetores.src.ProgramaQuartos",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "Program(16)",
+            "request": "launch",
+            "mainClass": "Program",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "AirQuality",
+            "request": "launch",
+            "mainClass": "UNIT.FichasPOO.AldoProfAtividades.Atividade2.AirQuality",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "Program(17)",
+            "request": "launch",
+            "mainClass": "UNIT.FichasPOO.AldoProfAtividades.Atividade3.src.Program",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "Program(18)",
+            "request": "launch",
+            "mainClass": "UNIT.FichasPOO.AldoProfAtividades.Atividade4.src.Program",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "UNIT.FichasPOO.AldoProfAtividades.AtividadePoli.App",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "Program(19)",
+            "request": "launch",
+            "mainClass": "UNIT.FichasPOO.AldoProfAtividades.DiabeteAtividade.src.Program",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "Program(20)",
+            "request": "launch",
+            "mainClass": "UNIT.FichasPOO.AldoProfAtividades.Reservatorio.src.Program",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "ProgramaElavadorArray",
+            "request": "launch",
+            "mainClass": "UNIT.FichasPOO.CodigoFonteElevador.src.ProgramaElavadorArray",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "Program(21)",
+            "request": "launch",
+            "mainClass": "Udemy2023.AulaEncapsulamento.src.Program",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "ProgramVer1",
+            "request": "launch",
+            "mainClass": "Udemy2023.AulaMembrosEstaticos.ProgramaVersao1.ProgramVer1",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "ProgramVer2",
+            "request": "launch",
+            "mainClass": "Udemy2023.AulaMembrosEstaticos.ProgramaVersao2.src.Udemy2023.AulaMembrosEstaticos.ProgramaVersao2.src.aplication.ProgramVer2",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "Program(22)",
+            "request": "launch",
+            "mainClass": "Udemy2023.AulaMembrosEstaticos.ProgramaVersao3.src.Program",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "Program(23)",
+            "request": "launch",
+            "mainClass": "Udemy2023.AulaPrincipio.Program",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "Program(24)",
+            "request": "launch",
+            "mainClass": "Udemy2023.Boxing.src.Program",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "Program(25)",
+            "request": "launch",
+            "mainClass": "Udemy2023.ForEach.Program",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "Program(26)",
+            "request": "launch",
+            "mainClass": "Udemy2023.Listas.Program",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "Program(27)",
+            "request": "launch",
+            "mainClass": "Udemy2023.TiposPrimitivos.Program",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "Program(28)",
+            "request": "launch",
+            "mainClass": "Udemy2023.course.src.application.Program",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "Atividade1",
+            "request": "launch",
+            "mainClass": "aula.Atividade1",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "Program(29)",
+            "request": "launch",
+            "mainClass": "aula.Construtores.src.Program",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "Program(30)",
+            "request": "launch",
+            "mainClass": "aula.DataHora.src.Program",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "ProgramCalculosDataHora",
+            "request": "launch",
+            "mainClass": "aula.DataHora.src.ProgramCalculosDataHora",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "ProgramConvertToLocal",
+            "request": "launch",
+            "mainClass": "aula.DataHora.src.ProgramConvertToLocal",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "ProgramDataPraString",
+            "request": "launch",
+            "mainClass": "aula.DataHora.src.ProgramDataPraString",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "Program(31)",
+            "request": "launch",
+            "mainClass": "aula.Enumeracao2.src.Program",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "FuncaoMaiorNumero",
+            "request": "launch",
+            "mainClass": "aula.Funcoes.FuncaoMaiorNumero",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "Program(32)",
+            "request": "launch",
+            "mainClass": "aula.Heranca.src.Program",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "Program(33)",
+            "request": "launch",
+            "mainClass": "aula.Matrizes.src.Program",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "Program(34)",
+            "request": "launch",
+            "mainClass": "aula.Polimorfismo.src.Program",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "Splite",
+            "request": "launch",
+            "mainClass": "aula.StringFuncoes.Splite",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "StringFunc",
+            "request": "launch",
+            "mainClass": "aula.StringFuncoes.StringFunc",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "BitABit",
+            "request": "launch",
+            "mainClass": "aula.TopicosJava.BitABit",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "BitABitpratica",
+            "request": "launch",
+            "mainClass": "aula.TopicosJava.BitABitpratica",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "aula",
+            "request": "launch",
+            "mainClass": "aula.comparativos.aula",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "conternaria",
+            "request": "launch",
+            "mainClass": "aula.comparativos.conternaria",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "minutosplano",
+            "request": "launch",
+            "mainClass": "aula.comparativos.minutosplano",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "exemplo",
+            "request": "launch",
+            "mainClass": "aula.logicainicio.exemplo",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "exemploaula",
+            "request": "launch",
+            "mainClass": "aula.logicainicio.exemploaula",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "exemploaula2",
+            "request": "launch",
+            "mainClass": "aula.logicainicio.exemploaula2",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "exemploaula3",
+            "request": "launch",
+            "mainClass": "aula.logicainicio.exemploaula3",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "exemploaulascanner",
+            "request": "launch",
+            "mainClass": "aula.logicainicio.exemploaulascanner",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "exemploaulascanner2",
+            "request": "launch",
+            "mainClass": "aula.logicainicio.exemploaulascanner2",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "exemploaulascanner4",
+            "request": "launch",
+            "mainClass": "aula.logicainicio.exemploaulascanner4",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "exemploaulascanner5",
+            "request": "launch",
+            "mainClass": "aula.logicainicio.exemploaulascanner5",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "exemplosaulafuncmat",
+            "request": "launch",
+            "mainClass": "aula.logicainicio.exemplosaulafuncmat",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "exemplosaulascanner3",
+            "request": "launch",
+            "mainClass": "aula.logicainicio.exemplosaulascanner3",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "aulafor",
+            "request": "launch",
+            "mainClass": "aula.repetição.aulafor",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "breakpoint",
+            "request": "launch",
+            "mainClass": "aula.repetição.breakpoint",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "dowhile",
+            "request": "launch",
+            "mainClass": "aula.repetição.dowhile",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "while1",
+            "request": "launch",
+            "mainClass": "aula.repetição.while1",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "Program(35)",
+            "request": "launch",
+            "mainClass": "src.Program",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "Program2",
+            "request": "launch",
+            "mainClass": "src.Program2",
+            "projectName": "estudos-java_9887a48c"
+        }
+    ]
+}

@@ -15,7 +15,6 @@ public class Pessoa {
         double totalAlturaMulheres = 0;
         int totalMulheres = 0;
         int totalHomens = 0;
-        int qtHomens = 0;
 
         for(int i = 0; i < altura.length; i++){
             System.out.println("Altura da " + (i + 1) + "° pessoa");
@@ -52,6 +51,6 @@ public class Pessoa {
         System.out.printf("Media de altura das Mulheres = %.2f%n",  mediaAlturaMulheres);
         System.out.println("Quantidade de homens = " + totalHomens);
 
-        
+        sc.close();
     }
 }

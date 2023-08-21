@@ -51,6 +51,9 @@ public class Program {
         for(Employee empregado : list){
             System.out.println(empregado.toString());
 
+
+
+            sc.close();
         }
     }
 }

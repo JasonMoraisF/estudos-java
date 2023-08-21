@@ -14,7 +14,7 @@ public class aulafor {
     
 
 
-
+        sc.close();
     }
     
 }

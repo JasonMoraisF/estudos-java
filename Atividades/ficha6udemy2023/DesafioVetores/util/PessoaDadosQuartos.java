@@ -8,10 +8,10 @@ public class PessoaDadosQuartos {
 
 
     
-    public void PessoaDadosQuartos(){
+    public void PessoaDadosQuarto(){
         
     }
-    public void PessoaDadosQuartos(String name, String email){
+    public void PessoaDadosQuarto(String name, String email){
         this.nome = name;
         this.email = email;
     }

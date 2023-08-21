@@ -25,5 +25,7 @@ public class Program {
                 System.out.println(vect[i]);
             }
         }
+
+        sc.close();
     }
 }

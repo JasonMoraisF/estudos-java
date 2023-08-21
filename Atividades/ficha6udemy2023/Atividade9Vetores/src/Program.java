@@ -27,7 +27,7 @@ public class Program {
 
         System.out.println("Pessoa mais velha = " + pessoaMaisVelha);
 
-        
+        sc.close();
     }
 
 }

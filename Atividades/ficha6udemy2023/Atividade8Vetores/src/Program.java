@@ -27,6 +27,6 @@ public class Program {
         System.out.printf("MEDIA DOS PARES: %.1f", media);
         }
 
-
+        sc.close();
     }
 }

@@ -25,7 +25,7 @@ public class ProgramaQuartos {
             int quarto = sc.nextInt();
 
             pessoaDados[quarto] = new PessoaDadosQuartos();
-            pessoaDados[quarto].PessoaDadosQuartos(nome, email);
+            pessoaDados[quarto].PessoaDadosQuarto(nome, email);
             
         }
         System.out.println("Busy rooms: ");
@@ -36,7 +36,7 @@ public class ProgramaQuartos {
             }
         }
 
-
+        sc.close();
 
     }
 }

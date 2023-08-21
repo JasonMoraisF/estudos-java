@@ -1,7 +1,7 @@
 package Atividades.ficha6udemy2023.Atividade1Vetores.src;
 
 import java.util.Scanner;
-import java.util.Vector;
+
 
 public class Program {
     public static void main(String[] args) {
@@ -24,6 +24,10 @@ public class Program {
         else{
             System.out.println("MENOR OU IGUAL A 10 lindo: ");
             System.out.println("Rode novamente o programa que se foda");
+
+
+            
         }
+        sc.close();
     }    
 }

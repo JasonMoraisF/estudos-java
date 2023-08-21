@@ -25,5 +25,7 @@ public class Program {
         media = soma / n;
         System.out.printf("%nsoma = " + soma + "%nmédia: " + media);
 
+
+        sc.close();
     }
 }

@@ -27,6 +27,9 @@ public class ProgramMaiorPosicao {
 
         System.out.println("Maior Valor = " + maiorNumero);
         System.out.println("Posicao do maior valor = " + posicao);
+
+
+        sc.close();
     } 
 }
     

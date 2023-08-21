@@ -38,7 +38,7 @@ public class Program {
         System.out.printf("%nQuantidade de pares: %d", qtPares); 
 
 
-    
+        sc.close();
     }
 
 }   
