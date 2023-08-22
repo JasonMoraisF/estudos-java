@@ -25,10 +25,10 @@ public class pessoaJuridica extends contribuintes{
     @Override
     public double impostoPago(){
         if(nFuncionarios > 10){
-            return (14/100) * getRendaAnual();
+            return (getRendaAnual() * 0.14) ;
         }
         else{
-            return (16/100) * getRendaAnual();
+            return (getRendaAnual() * 0.16);
         }
     }
     
