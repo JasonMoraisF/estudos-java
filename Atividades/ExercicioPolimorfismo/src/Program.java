@@ -23,7 +23,6 @@ public class Program {
         Double preco, taxa;
         LocalDate data;
 
-
         List<Product> produtos = new ArrayList<>();
 
         for(int i = 1; i<=n; i++){
@@ -63,12 +62,9 @@ public class Program {
             String priceTag = produto.priceTag();
             System.out.println(priceTag);
            
-
         }
 
-
-
-        sc.close();
+       sc.close();
 
     }   
     

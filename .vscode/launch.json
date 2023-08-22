@@ -8,6 +8,20 @@
             "type": "java",
             "name": "Program",
             "request": "launch",
+            "mainClass": "MetodoAbstrato.src.application.Program",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "application.Program",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
             "mainClass": "DataHora.src.Program",
             "projectName": "estudos-java_9887a48c"
         },
