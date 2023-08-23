@@ -48,7 +48,7 @@ public class Programa {
             }
             System.out.printf("TOTAL TAXES: %.2f", impostoArrecadado);
 
-
+            sc.close();
 
     }
     

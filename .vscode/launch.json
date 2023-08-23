@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Programa",
+            "request": "launch",
+            "mainClass": "ExcecaoPersonalizada.src.application.Programa",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
+            "name": "Programa",
+            "request": "launch",
+            "mainClass": "TratamentoExcecao.TryCatch.src.application.Programa",
+            "projectName": "estudos-java_9887a48c"
+        },
+        {
+            "type": "java",
             "name": "teste",
             "request": "launch",
             "mainClass": "Atividades.ExercicioAbstracao.src.entities.teste",
