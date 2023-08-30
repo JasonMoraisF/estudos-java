@@ -1,4 +1,4 @@
-package Atividades.ExercicioMatrizes.src;
+package ExercicioMatrizes.src;
 
 import java.util.Scanner;
 

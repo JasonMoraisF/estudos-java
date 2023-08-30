@@ -1,13 +1,13 @@
-package Atividades.ExercicioAbstracao.src.application;
+package ExercicioAbstracao.src.application;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
 import java.util.Scanner;
 
-import Atividades.ExercicioAbstracao.src.entities.contribuintes;
-import Atividades.ExercicioAbstracao.src.entities.pessoaFisica;
-import Atividades.ExercicioAbstracao.src.entities.pessoaJuridica;
+import ExercicioAbstracao.src.entities.contribuintes;
+import ExercicioAbstracao.src.entities.pessoaFisica;
+import ExercicioAbstracao.src.entities.pessoaJuridica;
 
 public class Programa {
     public static void main(String[] args) {

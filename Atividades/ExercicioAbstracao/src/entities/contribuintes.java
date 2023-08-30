@@ -1,4 +1,4 @@
-package Atividades.ExercicioAbstracao.src.entities;
+package ExercicioAbstracao.src.entities;
 
 public abstract class contribuintes {
      private String name;

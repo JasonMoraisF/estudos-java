@@ -1,4 +1,4 @@
-package Atividades.ExercicioAbstracao.src.entities;
+package ExercicioAbstracao.src.entities;
 
 public class pessoaJuridica extends contribuintes{
     private int nFuncionarios;
